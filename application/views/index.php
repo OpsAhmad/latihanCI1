@@ -1,0 +1,1 @@
+ini halaman utama  , pemilik situs ini <?php echo $nama;?> <br> <br> Status: <?php echo $status?>
